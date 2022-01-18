@@ -4,4 +4,5 @@ veritabanında müsait durumda olan araçları istedikleri tarihler arasında ki
 Yöneticiler ise kendilerine özel ekranda sistemdeki müşterilerin bilgilerini ve araçların durumlarını izleyebilirler.
 
 Giriş Ekranı:
+
 ❮img src="images/girisekrani.jpg" width="100" ❯
