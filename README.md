@@ -3,33 +3,38 @@ MySQL veritabanı kullanılarak oluşturulmuş olan Araç Kiralama Sistemi ile m
 veritabanında müsait durumda olan araçları istedikleri tarihler arasında kiralayabilirler. 
 Yöneticiler ise kendilerine özel ekranda sistemdeki müşterilerin bilgilerini ve araçların durumlarını izleyebilirler.
 
+
 Giriş Ekranı:
 
-![](images/girisekrani.png )
+<img src="images/girisekrani.png" width="300">
+
 
 Kayıt Olma Ekranı:
 
-![](images/kayitolmaekrani.jpg )
+<img src="images/kayitolmaekrani.jpg" width="400">
 
 Şifre Değiştirme Ekranı:
 
-![](images/sifredegistirekrani.jpg )
+<img src="images/kayitolmaekrani.jpg" width="400">
 
 Kullanıcı Ekranı:
 
-![](images/kullaniciekrani.jpg )
+<img src="images/kullaniciekrani.jpg" width="700">
 
 Yönetici Ekranı:
 
-![](images/adminekrani.jpg )
+<img src="images/adminekrani.jpg" width="700">
 
 
 Veritabanı tabloları:
-![](images/sql_tables.jpg )
+
+<img src="images/sql_tables.jpg" width="700">
 
 Müşteri Tablosu:
-![](images/musteri_tables.jpg )
+
+<img src="images/musteri_tables.jpg" width="700">
 
 Araç Tablosu:
-![](images/arac_table.jpg )
+
+<img src="images/arac_table.jpg" width="700">
 
